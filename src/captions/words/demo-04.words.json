@@ -1,0 +1,44 @@
+{
+  "words": [
+    {
+      "w": "Tiap",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "w": "adegan",
+      "start": 0.42,
+      "end": 0.8
+    },
+    {
+      "w": "punya",
+      "start": 0.8,
+      "end": 1.06
+    },
+    {
+      "w": "latar",
+      "start": 1.06,
+      "end": 1.54
+    },
+    {
+      "w": "yang",
+      "start": 1.54,
+      "end": 1.7
+    },
+    {
+      "w": "sesuai",
+      "start": 1.7,
+      "end": 2.2
+    },
+    {
+      "w": "dengan",
+      "start": 2.2,
+      "end": 2.4
+    },
+    {
+      "w": "cerita.",
+      "start": 2.4,
+      "end": 2.9
+    }
+  ]
+}

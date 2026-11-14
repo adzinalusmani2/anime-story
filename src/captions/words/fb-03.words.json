@@ -1,0 +1,44 @@
+{
+  "words": [
+    {
+      "w": "Karakternya",
+      "start": 0.0,
+      "end": 0.78
+    },
+    {
+      "w": "tetap",
+      "start": 0.78,
+      "end": 1.18
+    },
+    {
+      "w": "bicara",
+      "start": 1.18,
+      "end": 1.52
+    },
+    {
+      "w": "mengikuti",
+      "start": 1.52,
+      "end": 2.02
+    },
+    {
+      "w": "suara,",
+      "start": 2.02,
+      "end": 2.48
+    },
+    {
+      "w": "dengan",
+      "start": 2.48,
+      "end": 2.98
+    },
+    {
+      "w": "caption",
+      "start": 3.29,
+      "end": 3.54
+    },
+    {
+      "w": "karaoke.",
+      "start": 3.6,
+      "end": 3.92
+    }
+  ]
+}

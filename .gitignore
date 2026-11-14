@@ -1,0 +1,32 @@
+# Python / model
+.venv/
+__pycache__/
+*.pyc
+models/
+*.onnx
+*.pth
+*.pt
+
+# Node / Remotion
+node_modules/
+out/
+*.log
+
+# Karakter & media (foto sumber bisa jadi data pribadi)
+characters/*/source.jpg
+characters/*/source.png
+characters/*/source.jpeg
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Secrets — JANGAN PERNAH commit key/token/password
+*.key
+*.pem
+.env
+secrets/
+credentials*.json

@@ -1,0 +1,44 @@
+{
+  "words": [
+    {
+      "w": "Foto",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "w": "orang",
+      "start": 0.38,
+      "end": 0.64
+    },
+    {
+      "w": "nyata",
+      "start": 0.64,
+      "end": 1.06
+    },
+    {
+      "w": "bisa",
+      "start": 1.06,
+      "end": 1.58
+    },
+    {
+      "w": "berubah",
+      "start": 1.58,
+      "end": 2.12
+    },
+    {
+      "w": "jadi",
+      "start": 2.12,
+      "end": 2.4
+    },
+    {
+      "w": "karakter",
+      "start": 2.4,
+      "end": 2.88
+    },
+    {
+      "w": "anime.",
+      "start": 2.93,
+      "end": 3.18
+    }
+  ]
+}

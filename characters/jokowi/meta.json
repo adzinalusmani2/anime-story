@@ -1,0 +1,17 @@
+{
+  "name": "jokowi",
+  "style": "hayao",
+  "model": "AnimeGANv3_Hayao_36.onnx",
+  "model_source": "https://github.com/TachibanaYoshino/AnimeGANv3/releases/tag/v1.1.0",
+  "size": 512,
+  "crop": [
+    190,
+    30,
+    1090,
+    930
+  ],
+  "source_file": "source.jpg",
+  "anime_file": "anime.png",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Joko_Widodo_2019_official_portrait.jpg",
+  "source_license": "Public domain (PD Indonesian Government, via Wikimedia Commons)"
+}

@@ -1,0 +1,24 @@
+{
+  "words": [
+    {
+      "w": "Halo!",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "w": "Ini",
+      "start": 1.08,
+      "end": 1.32
+    },
+    {
+      "w": "demo",
+      "start": 1.37,
+      "end": 1.62
+    },
+    {
+      "w": "anime-story.",
+      "start": 1.42,
+      "end": 1.67
+    }
+  ]
+}

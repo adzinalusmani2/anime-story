@@ -1,0 +1,12 @@
+/* Inter (SIL Open Font License) — salinan lokal supaya render jalan offline.
+   Kit aslinya memuat Inter dari Google Fonts saat render
+   (@remotion/google-fonts), yang gagal di lingkungan ini karena browser
+   headless tidak bisa mencapai fonts.gstatic.com lewat proxy.
+   File font variabel yang sama, bobot 100-900, subset latin. */
+@font-face {
+  font-family: "Inter";
+  src: url("../../public/fonts/inter-latin.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}

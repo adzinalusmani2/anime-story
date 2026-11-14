@@ -1,0 +1,44 @@
+{
+  "words": [
+    {
+      "w": "Tokohnya",
+      "start": 0.61,
+      "end": 0.86
+    },
+    {
+      "w": "tampil",
+      "start": 0.66,
+      "end": 1.14
+    },
+    {
+      "w": "sebadan,",
+      "start": 1.14,
+      "end": 1.72
+    },
+    {
+      "w": "berdiri",
+      "start": 1.98,
+      "end": 2.7
+    },
+    {
+      "w": "di",
+      "start": 2.7,
+      "end": 2.88
+    },
+    {
+      "w": "satu",
+      "start": 2.88,
+      "end": 3.14
+    },
+    {
+      "w": "adegan",
+      "start": 3.14,
+      "end": 3.64
+    },
+    {
+      "w": "utuh.",
+      "start": 3.64,
+      "end": 4.06
+    }
+  ]
+}
